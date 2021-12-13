@@ -1,4 +1,5 @@
-words = ['Accumulate','characteristics','complex','Proportion','INTERPRET','Isolate','illustrate','Auxiliary','substitute','composition','fundamental','EXERCISE','Equipment','Peripheral','INTERNET']
+words = ['Accumulate','characteristics','complex','Proportion','INTERPRET','Isolate','illustrate',
+         'Auxiliary','substitute','composition','fundamental','EXERCISE','Equipment','Peripheral','INTERNET']
 
 def labelSlider():
     global count,sliderWords
